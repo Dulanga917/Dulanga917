@@ -5,7 +5,10 @@
 <p align="center">Problem solver | Code lover | Always building something cool</p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanga917&label=Profile%20views&color=0e75b6&style=flat" alt="dulanga917" /> </p>
