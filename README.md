@@ -4,10 +4,10 @@
 <h3 align="center">🔧 𝔻ulanga 𝔸ththanayake</h3>
 <p align="center">Problem solver | Code lover | Always building something cool</p>
 
+<div style="display: flex; justify-content: flex-end;">
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"   />    
+</div>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 
 
