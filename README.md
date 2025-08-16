@@ -1,7 +1,7 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<h3 align="center">🔧 𝔻ulanga 𝔸ththanayake</h3>
+<h3 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  𝔻ulanga 𝔸ththanayake</h3>
 <p align="center">Problem solver | Code lover | Always building something cool</p>
 
 <div style="display: flex; justify-content: flex-end;">
