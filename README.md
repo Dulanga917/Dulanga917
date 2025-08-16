@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">🔧 𝔻ulanga 𝔸ththanayake</h3>
 <p align="center">Problem solver | Code lover | Always building something cool</p>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **amsdulanga@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/dulanga aththanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulanga aththanayake" height="30" width="40" /></a>
 <a href="https://kaggle.com/dulanga aththanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dulanga aththanayake" height="30" width="40" /></a>
