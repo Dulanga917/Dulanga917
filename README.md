@@ -13,7 +13,7 @@
 
 
 <p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div
+<div align="center">
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Dulanga917&color=blueviolet&style=for-the-badge) 
 </div>
