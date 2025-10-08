@@ -42,8 +42,14 @@
 </p>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulanga917&show_icons=true&locale=en&layout=compact" alt="dulanga917" /></p>
+<div align="center">
+  
+![Dulanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulanga917&show_icons=true&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulanga917&show_icons=true&locale=en" alt="dulanga917" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanga917&layout=compact&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulanga917&" alt="dulanga917" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulanga917&theme=tokyonight)
+
+</div>
+
+---
