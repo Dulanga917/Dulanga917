@@ -17,17 +17,18 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanga917&label=Profile%20views&color=0e75b6&style=flat" alt="dulanga917" /> </p>
 <br> </br>
 
-🎓 Pursuing BSc (Hons) in Information Technology
-🌱 Currently learning **Flutter** & **React**
-💼 Specialized in **Android Development**, **Web Development**
-☁️ **Aviatrix Certified Engineer** – Multicloud Network Associate
-💬 Ask me about **Android**, **Web Development**, **Cloud Architecture**
-📫 Reach me at: **amsdulanga@gmail.com**
-🌐 Portfolio: [dulanga917.github.io/portfolio](https://dulanga917.github.io/portfolio/)
+- 🎓 Pursuing BSc (Hons) in Information Technology
+- 🌱 Currently learning **Flutter** & **React**
+- 💼 Specialized in **Android Development**, **Web Development** & **Cloud Computing**
+- ☁️ **Aviatrix Certified Engineer** – Multicloud Network Associate
+- 💬 Ask me about **Android**, **Web Development**, **Cloud Architecture**
+- 📫 Reach me at: **amsdulanga@gmail.com**
+- 🌐 Portfolio: [dulanga917.github.io/portfolio](https://dulanga917.github.io/portfolio/)
+
 
 
 <h3 align="Left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
