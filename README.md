@@ -13,7 +13,7 @@
 
 
 <p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="center">
+<div align="left">
   
 ### 💭 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
