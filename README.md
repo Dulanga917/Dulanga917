@@ -55,6 +55,8 @@
 </p>
 <br />
 
+## 📊 GitHub Stats
+
 <div align="center">
   
 ![Dulanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulanga917&show_icons=true&theme=tokyonight)
