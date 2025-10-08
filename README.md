@@ -14,9 +14,15 @@
 
 <p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
+  
+### 💭 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Dulanga917&color=blueviolet&style=for-the-badge) 
+![](https://komarev.com/ghpvc/?username=Dulanga917&color=blueviolet&style=for-the-badge)
+
 </div>
+
 <br> </br>
 
 - 🎓 Pursuing BSc (Hons) in Information Technology
